@@ -5,7 +5,7 @@ public class NewSort {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int i;  
-        int[] arr={7,69,31,25,45,267,56,2,22,68};  
+        int[] arr={7,69,31,25,45,269,56,2,22,68};  
         quickSort(arr, 0, 9);  
         System.out.println("Array After Quick Sort");  
         for(i=0;i<10;i++)  

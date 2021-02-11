@@ -20,7 +20,7 @@ public class BubbleSort {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int X[] ={7,69,31,25,45,267,56};  
+		int X[] ={7,69,31,25,45,269,56};  
         
         System.out.println("Array Before Bubble Sort");  
         for(int i=0; i < X.length; i++){  
